@@ -38,4 +38,4 @@ We currently triage support tickets using Severity only.
 ### Current rules
 - Triage happens daily
 - High severity should be addressed first
-- We do not currently define priority labels, default ownership, or a fast triage checklist<img width="1061" height="1158" alt="image" src="https://github.com/user-attachments/assets/8f5ebd44-9e21-4507-9ae1-4074db72e688" />
+- We do not currently define priority labels, default ownership, or a fast triage checklist
